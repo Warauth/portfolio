@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Skills, Interests, and Competencies
 permalink: /skills/
 ---
@@ -21,4 +21,4 @@ permalink: /skills/
 ### Competencies
 * **ABET Criterion 3: Student Outcomes**
     * **(a) An ability to apply knowledge of computing and mathematics appropriate to the program’s student outcomes and to the discipline.**
-        * **Wrote software including an implementation of minimax-based rudimentary "ai".** 
+        * **Wrote software including an implementation of minimax-based rudimentary "ai".**

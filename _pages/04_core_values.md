@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Core Values
 permalink: /values/
 ---
@@ -13,7 +13,7 @@ permalink: /values/
 * **Leadership**
     * **I am committed to being a technical leader in my profession, business, and community.**
 
-<br> 
+<br>
 
 * **Economic Impact**
     * **I will enhance the economic well-being of wherever I am at through my technical leadership and expertise.**
